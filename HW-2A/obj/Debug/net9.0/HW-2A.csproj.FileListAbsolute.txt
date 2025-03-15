@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\bin\Debug\net9.0\HW-2A.exe
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\bin\Debug\net9.0\HW-2A.deps.json
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\bin\Debug\net9.0\HW-2A.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\bin\Debug\net9.0\HW-2A.dll
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\bin\Debug\net9.0\HW-2A.pdb
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.dll
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\refint\HW-2A.dll
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.pdb
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\HW-2A.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\HW-2A\HW-2A\obj\Debug\net9.0\ref\HW-2A.dll
